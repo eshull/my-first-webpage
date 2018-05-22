@@ -4,14 +4,14 @@
 }
 
 h1, h2, h3 {
-  font-size: 30px;
+  font-size: 50px;
   font-family: 'Permanent Marker', cursive;
   color: #4C2800;
   letter-spacing: 2px;
 }
 
 body {
-  background-color: #FF8600;
+  background-color: white;
 }
 
 p {
